@@ -7,6 +7,4 @@ Additionally, some great folks have written articles about how they're using Fen
 - [Hosting Locally With Fenix Web Server](http://calendee.com/2014/06/25/hosting-locally-with-fenix-web-server/) by Justin Noel for [Calendee](http://calendee.com)
 - [Easy and Shareable Web Servers With Fenix](http://flippinawesome.org/2014/06/30/easy-and-shareable-local-web-servers-with-fenix/) by Raymond Camden for [Flippin' Awesome](http://flippinawesome.org).
 
-You can also contact the author via [@goldglovecb on Twitter](http://twitter.com/goldglovecb).
-
 If you've exhausted all of those options, then post an issue here.
