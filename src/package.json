@@ -1,8 +1,8 @@
 {
   "main": "index.html",
-  "name": "fenix",
-  "description": "Beautifully simple static web servers.",
-  "version": "2.0.0",
+  "name": "fenix reborn",
+  "description": "Beautifully simple static web servers reborn!.",
+  "version": "1.0",
   "keywords": [
     "fenix",
     "send",
@@ -17,7 +17,13 @@
     "email": "corey@coreybutler.com",
     "url": "http://coreybutler.com"
   },
-  "contributors": [],
+  "contributors": [
+  {
+    "name": "Harley Ellis",
+    "email": "privacymatters42069@gmail.com",
+    "url": "https://github.com/privacymatters42069-del"
+  }
+],
   "no-edit-menu": true,
   "window": {
     "title": "Fenix Web Servers",
