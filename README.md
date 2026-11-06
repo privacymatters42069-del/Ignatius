@@ -1,24 +1,13 @@
-# Fenix Reborn
+# Ignatius Web Server
 
-Fenix Reborn is a desktop web server for developers based on Fenix 2.0 by Corey Butler: https://github.com/coreybutler/fenix.
+Ignatius Web Server is an unofficial community fork of Fenix 2.0, originally created by Corey Butler. It is maintained by Harley Ellis and is not affiliated with or endorsed by Corey Butler or the original Fenix project.
 
-## Fenix Reborn
-
-**Main App:**
-
-![Original Fenix 2.0 app](http://fenixwebserver.com/img/win32/banner_device.png)
-
-**Webhook Browser (original Fenix 2.0):**
-
-![Original Fenix 2.0 webhook browser](http://fenixwebserver.com/img/win32/bin.png)
-
-The [wiki](https://github.com/privacymatters42069-del/fenix-reborn/wiki) has additional information about how Fenix Reborn works, how to hack on it,
-and how to use it on other platforms.  The [release history](https://github.com/privacymatters42069-del/fenix-reborn/releases) has older versions and a changelog.
+The app provides a desktop interface for starting local web servers and inspecting webhook requests. See the [original Fenix project](https://github.com/coreybutler/fenix) for upstream history. For this fork's source, support, and releases, use this repository.
 
 ## Known Issues
 
 - None
 
-## GPL License
+## License
 
-Fenix Reborn is available under the GPL license.
+Ignatius Web Server is distributed under GNU GPL version 3.0; see [LICENSE](./LICENSE). Third-party components may be governed by separate license terms; consult their applicable notices.
