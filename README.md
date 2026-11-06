@@ -1,8 +1,10 @@
 # Ignatius Web Server
 
-Ignatius Web Server is an unofficial community fork of Fenix 2.0, originally created by Corey Butler. It is maintained by Harley Ellis and is not affiliated with or endorsed by Corey Butler or the original Fenix project.
+Ignatius Web Server is an independently maintained Windows desktop application for managing local web servers and inspecting webhook requests. It is maintained by Harley Ellis and is not affiliated with or endorsed by any upstream project.
 
-The app provides a desktop interface for starting local web servers and inspecting webhook requests. See the [original Fenix project](https://github.com/coreybutler/fenix) for upstream history. For this fork's source, support, and releases, use this repository.
+This project includes code derived from Fenix 2.0. Upstream acknowledgements and copyright notices are retained in [Credits](./src/Credits.html) and the applicable source files.
+
+Legacy `.fenix.json` project configuration, webhook probe routes, and existing `%APPDATA%\Fenix` settings/logs remain supported for compatibility; they do not indicate affiliation.
 
 ## Known Issues
 
@@ -10,4 +12,4 @@ The app provides a desktop interface for starting local web servers and inspecti
 
 ## License
 
-Ignatius Web Server is distributed under GNU GPL version 3.0; see [LICENSE](./LICENSE). Third-party components may be governed by separate license terms; consult their applicable notices.
+Ignatius Web Server is distributed under GNU GPL version 3.0 or later; see [LICENSE](./LICENSE). Third-party components may be governed by separate license terms; consult their applicable notices.
