@@ -1,4 +1,4 @@
-![Ignatius Web Server](./src/lib/icons/ignatius.png)
+![Ignatius Web Server](./logo.png)
 
 # Ignatius Web Server
 
