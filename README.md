@@ -1,6 +1,6 @@
-# Ignatius Web Server
+![Ignatius Web Server](./src/lib/icons/ignatius.png)
 
-<img src="src/lib/icons/ignatius.png" alt="Ignatius Web Server">
+# Ignatius Web Server
 
 Ignatius Web Server is an independently maintained Windows desktop application for managing local web servers and inspecting webhook requests. It is maintained by Harley Ellis and is not affiliated with or endorsed by any upstream project.
 
